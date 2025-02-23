@@ -1,0 +1,7 @@
+@JSONAPI_HostAddress = http://localhost:5214
+
+POST {{JSONAPI_HostAddress}}/api/jsonyaml
+Content-Type: application/json
+Accept: application/json
+
+
